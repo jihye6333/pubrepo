@@ -1,9 +1,9 @@
 자기소개
 ------------------
-이름 : 
+이름 : 정지혜
 
-팀 : 
+팀 : I팀
 
-github id : 
+github id : jihye6333 
 
-email : 
+email : Jihye6333@wemakeprice.com
